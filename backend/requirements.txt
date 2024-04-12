@@ -1,0 +1,9 @@
+pandas
+pyspark
+numpy
+delta
+scikit-learn
+statsmodels
+scipy
+matplotlib
+flask
